@@ -50,6 +50,8 @@ final class WP_Theme implements ArrayAccess {
 	private static $default_themes = array(
 		'classic'        => 'WordPress Classic',
 		'default'        => 'WordPress Default',
+        'bohn'           => 'Bohn',
+        'bohn-child'     => 'Bohn Child',
 		'twentyten'      => 'Twenty Ten',
 		'twentyeleven'   => 'Twenty Eleven',
 		'twentytwelve'   => 'Twenty Twelve',
