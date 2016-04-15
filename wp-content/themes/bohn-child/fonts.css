@@ -1,0 +1,21 @@
+ /*! category v0.0.1 zhujiang.es | #license */ 
+@charset "utf-8";
+@font-face {
+    font-family: 'neue';
+    src: url('./fonts/HelveticaNeue-Light.eot');
+    src: url('./fonts/HelveticaNeue-Light?#iefix') format('embedded-opentype'), url('./fonts/HelveticaNeue-Light.woff') format('woff'), url('./fonts/HelveticaNeue-Light.ttf') format('truetype'), url('./fonts/HelveticaNeue-Light.svg#webfont') format('svg');
+}
+
+@font-face {
+    font-family: 'myriad';
+    src: url('./fonts/MyriadPro-Light.eot');
+    src: url('./fonts/MyriadPro-Light?#iefix') format('embedded-opentype'), url('./fonts/MyriadPro-Light.woff') format('woff'), url('./fonts/MyriadPro-Light.ttf') format('truetype'), url('./fonts/MyriadPro-Light.svg#webfont') format('svg');
+}
+
+@font-face {
+    font-family: 'minion';
+    src: url('./fonts/minionpro-regular-webfont.eot');
+    src: url('./fonts/minionpro-regular-webfont?#iefix') format('embedded-opentype'), url('./fonts/minionpro-regular-webfont.woff') format('woff'), url('./fonts/minionpro-regular-webfont.ttf') format('truetype'), url('./fonts/minionpro-regular-webfont.svg#webfont') format('svg');
+}
+
+

@@ -1,0 +1,119 @@
+/*
+Theme Name: bohn
+Theme URI: http://underscores.me/
+Author: znpobbx
+Template: bohn
+Author URI: http://beethoven.ml
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  bohn-child
+*/
+
+/* Your awesome customizations start right here !
+-------------------------------------------------------------- */
+@import url('../bohn/style.css');
+@import url('fonts.css');
+
+* {
+margin: 0;
+padding: 0;
+}
+
+body {    
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.site-branding
+{
+  border-top: 10px solid #C00;
+  border-right: 1px solid #C00;
+  border-bottom: 1px solid #C00;
+  border-left: 1px solid #C00;
+  height: auto;
+    
+}
+
+
+#site-navigation
+{
+  border-top: 1px solid #C00;
+  border-right: 1px solid #C00;
+  border-bottom: 1px solid #C00;
+  border-left: 1px solid #C00;
+  height: auto;
+    
+}
+
+
+h1{
+    
+font-family: 'geraldineregular', Helvetica, Times New Roman, times-roman, georgia, serif;
+font-size: 40px;
+
+top: 10px; 
+left: 10px; 
+width: 100%;
+margin-top: 0px;
+margin-bottom: 0px;
+border-bottom: 1px solid #000;    
+    
+}  
+
+
+h1.page-title {
+    
+font-family: 'Roboto', Helvetica, Times New Roman, times-roman, georgia, serif;
+font-size: 40px;
+
+top: 10px; 
+left: 10px; 
+width: 100%;
+margin-top: 0px;
+margin-bottom: 0px;
+border-bottom: 1px solid #000;    
+    
+}  
+
+p.site-description
+{
+font-family: 'Roboto', Helvetica, Times New Roman, times-roman, georgia, serif;
+top: 10px; 
+left: 0; 
+width: 100%;  
+text-align: right;    
+margin-top: 0px;    
+border-style: solid; 
+margin-bottom: 0px;    
+    color: #F00;
+}
+
+
+.entry-title a {
+font-family: 'minion', Helvetica, georgia, sans-serif;
+font-size: 32px;
+}
+
+
+.entry_confirm {
+font-family: 'minion', Helvetica, georgia, sans-serif;
+font-size: 32px;
+}
+
+
+.entry_hide {
+display:none;
+}
+
+
+p
+{
+font-family: 'myriad', Helvetica, georgia, sans-serif;
+font-size: 32px;
+}
+
+a {
+	text-decoration: none;
+}
