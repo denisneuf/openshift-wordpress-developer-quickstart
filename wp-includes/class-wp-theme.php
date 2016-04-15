@@ -52,13 +52,6 @@ final class WP_Theme implements ArrayAccess {
 		'default'        => 'WordPress Default',
         'bohn'           => 'Bohn',
         'bohn-child'     => 'Bohn Child',
-		'twentyten'      => 'Twenty Ten',
-		'twentyeleven'   => 'Twenty Eleven',
-		'twentytwelve'   => 'Twenty Twelve',
-		'twentythirteen' => 'Twenty Thirteen',
-		'twentyfourteen' => 'Twenty Fourteen',
-		'twentyfifteen'  => 'Twenty Fifteen',
-		'twentysixteen'  => 'Twenty Sixteen',
 	);
 
 	/**
